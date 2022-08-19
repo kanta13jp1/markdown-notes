@@ -1,11 +1,10 @@
-# hello-world
-
-I love :coffee: :pizza:, and :dancer:.
-
 ---
 editLink: false
 sidebar: false
 ---
+
+# hello-world
+I love :coffee: :pizza:, and :dancer:.
 
 [Yuuniworks](https://www.yuuniworks.com/)の個人的なメモ帳です ✍🏻
 
